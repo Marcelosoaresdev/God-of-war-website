@@ -1,2 +1,2 @@
 # God-of-war-website
- Website osbre o jogo God of War Ragnarock
+ Website sobre o jogo God of War Ragnarok
